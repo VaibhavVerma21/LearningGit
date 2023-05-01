@@ -2,3 +2,4 @@ To create a branch -> git branch <branch-name>
 To check branches -> git branch
 To see/checkout other branches -> git checkout <branch-name>
 To create a branch and checkout/see it -> git checkout -b <branch-name>
+To merge a branch with the current branch -> git merge <branch-name>
